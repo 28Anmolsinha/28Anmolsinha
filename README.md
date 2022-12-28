@@ -13,7 +13,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science Engineering at Chandigarh Engineering College.
 - 🌱 &nbsp; Learning more about Android Development, Data Structure and Algorithm.
-<!-- - ✍ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe">Ankit Mishra's Blog</a> -->
+- ✍ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@AnmolSinha">Anmol Sinha's Blog</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
