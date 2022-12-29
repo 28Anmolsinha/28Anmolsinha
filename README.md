@@ -6,7 +6,7 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{28Anmolsinha}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{28Anmolsinha}/count.svg) -->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
