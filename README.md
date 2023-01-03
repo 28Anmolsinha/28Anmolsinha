@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/28Anmolsinha/28Anmolsinha/blob/main/Bg%20cover.jpg)
 
-<h2> Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">!! I'm Anmol Sinha!!</h2>
+<h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">Welcome to my Github Profile !!</h2>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
@@ -44,7 +44,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  -->
 <br/>
-<img src="https://img.shields.io/github/followers/28Anmolsinha?style=social"></img>
+<!-- <img src="https://img.shields.io/github/followers/28Anmolsinha?style=social"></img> -->
 
 [![Anmol's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=28Anmolsinha&theme=dracula)](https://github.com/28Anmolsinha/github-readme-activity-graph)
 
