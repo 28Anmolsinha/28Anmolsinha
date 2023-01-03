@@ -57,7 +57,8 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=6000&vCenter=true&lines=Connect+With+Me+!!)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://github.com/28Anmolsinha/"><img alt="GitHub" src="https://img.shields.io/badge/github-28Anmolsinha-blue&logo=Github"></a>
