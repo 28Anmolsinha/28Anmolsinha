@@ -88,7 +88,6 @@
  Thank You for taking the time to view my GitHub Profile 😄
  ```
 
-⭐ From [Anmol Sinha](https://github.com/28Anmolsinha)
 
 <!---
 Anmolsinha/Anmolsinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
