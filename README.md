@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/28Anmolsinha/28Anmolsinha/blob/main/Bg%20cover.jpg)
 
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> Welcome to my Github Profile !!</h2>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width = 250px></picture>
 
 
 
