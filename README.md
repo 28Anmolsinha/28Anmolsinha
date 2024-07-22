@@ -45,24 +45,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="php" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="50" height="50"/></code> &nbsp;
 
-</br></br>
-
-<br/>
-
-<a href="https://github.com/28Anmolsinha">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=28Anmolsinha&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=28Anmolsinha&theme=tokyonight&layout=compact" />
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Anmolsinha&theme=tokyonight&layout=compact" />
-</a>
 
 
-
-
-
-<br/>
-
-<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
-<hr>
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=6000&color=189C07&vCenter=true&lines=Connect+With+Me🤝)](https://git.io/typing-svg) 
@@ -75,6 +59,8 @@
 <a href="mailto:mailmeatanmol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mailmeatanmol@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p> -->
+<br>
+<h3> 👨🏻‍💻 &nbsp;Connect With Me </h3>
 <div align="center">
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolsinha28/)
