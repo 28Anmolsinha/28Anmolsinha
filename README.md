@@ -28,7 +28,10 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="php" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="php" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" height="50"/></code> &nbsp;
 
 </br></br>
 
@@ -46,6 +49,9 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="php" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" height="50"/></code> &nbsp;
 
 
