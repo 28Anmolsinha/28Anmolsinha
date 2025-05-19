@@ -35,6 +35,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jaegertracing/jaegertracing-original.svg" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" height="50"/></code> &nbsp;
+
 
 
 </br></br>
@@ -59,6 +61,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jaegertracing/jaegertracing-original.svg" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" height="50"/></code> &nbsp;
 
 
 
